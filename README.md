@@ -89,7 +89,7 @@ If you are not able to use Tailwind CSS, open official Tailwind CSS website and 
 
 ## Authors
 
-- [@PriyaSingh34](https://github.com/PriyaSingh34)
+- @krishna singh
 
 ## Acknowledgements
 
